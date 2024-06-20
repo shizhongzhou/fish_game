@@ -1,0 +1,10 @@
+^D:\PROJECT\FISH\FISH\BUILD\CMAKEFILES\2592D0D68534ACA5DF807447D6ABF319\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Project/Fish/Fish -BD:/Project/Fish/Fish/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Project/Fish/Fish/build/Fish_game.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

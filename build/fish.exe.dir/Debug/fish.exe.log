@@ -1,0 +1,325 @@
+﻿  fishMain.cpp
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(33,5): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(247,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(33,5):
+  	“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [12]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(33,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(246,6):
+  或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(33,5):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [12]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(33,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(33,5):
+  尝试匹配参数列表“(IMAGE *, const wchar_t [12], int, int)”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(34,5): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(247,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(34,5):
+  	“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [15]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(34,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(246,6):
+  或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(34,5):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [15]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(34,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(34,5):
+  尝试匹配参数列表“(IMAGE *, const wchar_t [15], const int, const int)”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(35,5): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(247,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(35,5):
+  	“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [11]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(35,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(246,6):
+  或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(35,5):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [11]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(35,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(35,5):
+  尝试匹配参数列表“(IMAGE *, const wchar_t [11], const int, const int)”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(36,5): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(247,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(36,5):
+  	“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [15]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(36,28):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(246,6):
+  或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(36,5):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [15]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(36,28):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(36,5):
+  尝试匹配参数列表“(IMAGE *, const wchar_t [15], const short, const short)”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(37,5): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(247,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(37,5):
+  	“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [22]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(37,32):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(246,6):
+  或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(37,5):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [22]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(37,32):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(37,5):
+  尝试匹配参数列表“(IMAGE *, const wchar_t [22], const int, const int)”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(38,5): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(247,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(38,5):
+  	“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [19]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(38,32):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(246,6):
+  或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(38,5):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [19]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(38,32):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(38,5):
+  尝试匹配参数列表“(IMAGE *, const wchar_t [19], int, int)”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(39,5): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(247,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(39,5):
+  	“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [22]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(39,32):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(246,6):
+  或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(39,5):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [22]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(39,32):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(39,5):
+  尝试匹配参数列表“(IMAGE *, const wchar_t [22], const int, const int)”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(40,5): error C2665: “loadimage”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(247,6):
+  可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(40,5):
+  	“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [19]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(40,32):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(246,6):
+  或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(40,5):
+  	“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const wchar_t [19]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(40,32):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(40,5):
+  尝试匹配参数列表“(IMAGE *, const wchar_t [19], int, int)”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(228,5): error C2664: “MCIERROR mciSendStringA(LPCSTR,LPSTR,UINT,HWND)”: 无法将参数 1 从“const wchar_t [17]”转换为“LPCSTR”
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(228,19):
+  指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(77,1):
+  参见“mciSendStringA”的声明
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(228,5):
+  尝试匹配参数列表“(const wchar_t [17], int, int, int)”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(229,5): error C2664: “MCIERROR mciSendStringA(LPCSTR,LPSTR,UINT,HWND)”: 无法将参数 1 从“const wchar_t [22]”转换为“LPCSTR”
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(229,19):
+  指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\mciapi.h(77,1):
+  参见“mciSendStringA”的声明
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(229,5):
+  尝试匹配参数列表“(const wchar_t [22], int, int, int)”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(234,5): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(216,6):
+  可能是“void outtextxy(int,int,TCHAR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(234,5):
+  	“void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const wchar_t [12]”转换为“TCHAR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(234,25):
+  		没有使该转换得以执行的上下文
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(215,6):
+  或    “void outtextxy(int,int,LPCTSTR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(234,5):
+  	“void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const wchar_t [12]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(234,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(234,5):
+  尝试匹配参数列表“(int, int, const wchar_t [12])”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(235,5): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(216,6):
+  可能是“void outtextxy(int,int,TCHAR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(235,5):
+  	“void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const wchar_t [48]”转换为“TCHAR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(235,25):
+  		没有使该转换得以执行的上下文
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(215,6):
+  或    “void outtextxy(int,int,LPCTSTR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(235,5):
+  	“void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const wchar_t [48]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(235,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(235,5):
+  尝试匹配参数列表“(int, int, const wchar_t [48])”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(236,5): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(216,6):
+  可能是“void outtextxy(int,int,TCHAR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(236,5):
+  	“void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const wchar_t [52]”转换为“TCHAR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(236,25):
+  		没有使该转换得以执行的上下文
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(215,6):
+  或    “void outtextxy(int,int,LPCTSTR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(236,5):
+  	“void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const wchar_t [52]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(236,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(236,5):
+  尝试匹配参数列表“(int, int, const wchar_t [52])”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(237,5): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(216,6):
+  可能是“void outtextxy(int,int,TCHAR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(237,5):
+  	“void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const wchar_t [29]”转换为“TCHAR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(237,25):
+  		没有使该转换得以执行的上下文
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(215,6):
+  或    “void outtextxy(int,int,LPCTSTR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(237,5):
+  	“void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const wchar_t [29]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(237,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(237,5):
+  尝试匹配参数列表“(int, int, const wchar_t [29])”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(238,5): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(216,6):
+  可能是“void outtextxy(int,int,TCHAR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(238,5):
+  	“void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const wchar_t [21]”转换为“TCHAR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(238,25):
+  		没有使该转换得以执行的上下文
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(215,6):
+  或    “void outtextxy(int,int,LPCTSTR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(238,5):
+  	“void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const wchar_t [21]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(238,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(238,5):
+  尝试匹配参数列表“(int, int, const wchar_t [21])”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(239,5): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(216,6):
+  可能是“void outtextxy(int,int,TCHAR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(239,5):
+  	“void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const wchar_t [17]”转换为“TCHAR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(239,25):
+  		没有使该转换得以执行的上下文
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(215,6):
+  或    “void outtextxy(int,int,LPCTSTR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(239,5):
+  	“void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const wchar_t [17]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(239,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(239,5):
+  尝试匹配参数列表“(int, int, const wchar_t [17])”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(240,5): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(216,6):
+  可能是“void outtextxy(int,int,TCHAR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(240,5):
+  	“void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const wchar_t [27]”转换为“TCHAR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(240,25):
+  		没有使该转换得以执行的上下文
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(215,6):
+  或    “void outtextxy(int,int,LPCTSTR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(240,5):
+  	“void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const wchar_t [27]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(240,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(240,5):
+  尝试匹配参数列表“(int, int, const wchar_t [27])”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(241,5): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(216,6):
+  可能是“void outtextxy(int,int,TCHAR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(241,5):
+  	“void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const wchar_t [35]”转换为“TCHAR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(241,25):
+  		没有使该转换得以执行的上下文
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(215,6):
+  或    “void outtextxy(int,int,LPCTSTR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(241,5):
+  	“void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const wchar_t [35]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(241,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(241,5):
+  尝试匹配参数列表“(int, int, const wchar_t [35])”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(335,5): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(216,6):
+  可能是“void outtextxy(int,int,TCHAR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(335,5):
+  	“void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const wchar_t [11]”转换为“TCHAR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(335,25):
+  		没有使该转换得以执行的上下文
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(215,6):
+  或    “void outtextxy(int,int,LPCTSTR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(335,5):
+  	“void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const wchar_t [11]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(335,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(335,5):
+  尝试匹配参数列表“(int, int, const wchar_t [11])”时
+  
+D:\Project(3) (1)\Project\Fish\Fish\Functions.h(336,5): error C2665: “outtextxy”: 没有重载函数可以转换所有参数类型
+  (编译源文件“../fishMain.cpp”)
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(216,6):
+  可能是“void outtextxy(int,int,TCHAR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(336,5):
+  	“void outtextxy(int,int,TCHAR)”: 无法将参数 3 从“const wchar_t [23]”转换为“TCHAR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(336,25):
+  		没有使该转换得以执行的上下文
+  D:\Project(3) (1)\Project\Fish\Fish\easyx\Include\easyx.h(215,6):
+  或    “void outtextxy(int,int,LPCTSTR)”
+  	D:\Project(3) (1)\Project\Fish\Fish\Functions.h(336,5):
+  	“void outtextxy(int,int,LPCTSTR)”: 无法将参数 3 从“const wchar_t [23]”转换为“LPCTSTR”
+  		D:\Project(3) (1)\Project\Fish\Fish\Functions.h(336,25):
+  		指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+  D:\Project(3) (1)\Project\Fish\Fish\Functions.h(336,5):
+  尝试匹配参数列表“(int, int, const wchar_t [23])”时
+  
