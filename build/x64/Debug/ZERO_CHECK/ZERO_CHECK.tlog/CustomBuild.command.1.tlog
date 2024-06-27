@@ -1,6 +1,6 @@
-^D:\PROJECT\FISH\FISH\BUILD\CMAKEFILES\2592D0D68534ACA5DF807447D6ABF319\GENERATE.STAMP.RULE
+^D:\PROJECT\FISH_TEST\FISH\BUILD\CMAKEFILES\1883F73E73E3C0BDF95AFF95EADF53CD\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SD:/Project/Fish/Fish -BD:/Project/Fish/Fish/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Project/Fish/Fish/build/Fish_game.sln
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Project/Fish_test/Fish -BD:/Project/Fish_test/Fish/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Project/Fish_test/Fish/build/Fish_test.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

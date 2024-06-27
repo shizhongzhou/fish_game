@@ -1,8 +1,8 @@
-# Install script for directory: D:/Project/Fish/Fish
+# Install script for directory: D:/Project/Fish_test/Fish
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "D:/Project/Fish/Fish/build")
+  set(CMAKE_INSTALL_PREFIX "D:/Project/Fish_test/Fish/build")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -47,6 +47,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "D:/Project/Fish/Fish/build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "D:/Project/Fish_test/Fish/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

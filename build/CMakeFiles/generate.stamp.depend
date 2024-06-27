@@ -18,8 +18,8 @@ C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows.cmake
 C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake
-D:/Project/Fish/Fish/CMakeLists.txt
-D:/Project/Fish/Fish/build/CMakeFiles/3.30.0-rc3/CMakeCCompiler.cmake
-D:/Project/Fish/Fish/build/CMakeFiles/3.30.0-rc3/CMakeCXXCompiler.cmake
-D:/Project/Fish/Fish/build/CMakeFiles/3.30.0-rc3/CMakeRCCompiler.cmake
-D:/Project/Fish/Fish/build/CMakeFiles/3.30.0-rc3/CMakeSystem.cmake
+D:/Project/Fish_test/Fish/CMakeLists.txt
+D:/Project/Fish_test/Fish/build/CMakeFiles/3.30.0-rc3/CMakeCCompiler.cmake
+D:/Project/Fish_test/Fish/build/CMakeFiles/3.30.0-rc3/CMakeCXXCompiler.cmake
+D:/Project/Fish_test/Fish/build/CMakeFiles/3.30.0-rc3/CMakeRCCompiler.cmake
+D:/Project/Fish_test/Fish/build/CMakeFiles/3.30.0-rc3/CMakeSystem.cmake
